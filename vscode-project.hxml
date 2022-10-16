@@ -1,0 +1,10 @@
+#automatically generated do not edit
+#@date Sun Oct 16 2022 22:04:02 GMT+0800 (Central Indonesia Time)
+#-main source/MenuState
+#-neko bin/text.n
+#lime test neko
+-main Main.hx
+#-cmd neko Test.n
+
+
+-cp c:\users\user\appdata\local\temp\44d80faf16efef2120e921f0b545537a10224067
